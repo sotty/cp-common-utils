@@ -8,7 +8,7 @@
 
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.complexible.common</groupId>
-  <artifactId>cp-common-utils</artifactId>
+  <artifactId>core</artifactId>
   <packaging>jar</packaging>
   <version>3.1.1</version>
   <url>https://github.com/mhgrove/cp-common-utils</url>
